@@ -1,5 +1,5 @@
 # Simple-Tkinter-Based-Python-GUI-Application
-Its is Python application that demonstrates how Tkinter GUI and MySql database connector works. This tested for Windows platform only.
+Its is Python application that demonstrates how Tkinter GUI and MySql database works and intended as a guidance for beginners. This tested for Windows platform only.
 ## Running this application
 Follow these steps to run the application successfully
 1) Install MySql server if you haven't already
